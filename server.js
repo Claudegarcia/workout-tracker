@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 
 const PORT = process.env.PORT || 3000;
 
-const User = require("./userModel.js");
+const Workout = require("./models/workout");
 
 const app = express();
 
@@ -42,16 +42,6 @@ app.post("/submit", ({body}, res) => {
 });
 
 app.get("/workouts", (req, res) => {
-  db.Workout.find({})
-    .then(dbWorkout => {
-      res.json(dbWorkout);
-    })
-    .catch(err => {
-      res.json(err);
-    });
-});
-
-app.get("/Wourkout", (req, res) => {
   db.Workout.find({})
     .then(dbWorkout => {
       res.json(dbWorkout);
