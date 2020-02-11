@@ -5,6 +5,8 @@ personal workout tracker app
 
 allows users to create new workouts, add exercises to existing workouts, and see their workout stats
 
+deployed link (BROKEN): https://cg-fitness-tracker.herokuapp.com/
+
 
 ![APP HOME SCREEN](./public/assets/images/home-screen.PNG)
 
