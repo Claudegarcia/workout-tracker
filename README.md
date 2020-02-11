@@ -7,11 +7,15 @@ allows users to create new workouts, add exercises to existing workouts, and see
 
 deployed link (BROKEN): https://cg-fitness-tracker.herokuapp.com/
 
-
+APP HOME SCREEN
 ![APP HOME SCREEN](./public/assets/images/home-screen.PNG)
 
-![select type of exercise to add to workout](./public/assets/images/add-exercis.PNG)
 
+SELECT TYPE OF EXERCISE TO ADD TO WORKOUT
+![select type of exercise to add to workout](./public/assets/images/add-exercise.PNG)
+
+ADDING A RESISTANCE EXERCISE TO WORKOUT
 ![adding a resistance workout'](./public/assets/images/resistance.PNG)
 
+WORKOUT DASHBOARD/STATS
 !['workout dashboard/stats'](./public/assets/images/dashboard.PNG)
