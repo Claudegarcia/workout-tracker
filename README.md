@@ -1,10 +1,15 @@
 # workout-tracker
 When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
 
-The user should be able to:
+personal workout tracker app
 
-  * Add exercises to a previous workout plan.
+allows users to create new workouts, add exercises to existing workouts, and see their workout stats
 
-  * Add new exercises to a new workout plan.  
 
-  * View multiple the combined weight of multiple exercises on the `stats` page.
+![APP HOME SCREEN](./public/assets/images/home-screen.PNG)
+
+![select type of exercise to add to workout](./public/assets/images/add-exercis.PNG)
+
+![adding a resistance workout'](./public/assets/images/resistance.PNG)
+
+!['workout dashboard/stats'](./public/assets/images/dashboard.PNG)
